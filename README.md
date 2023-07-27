@@ -7,4 +7,4 @@ Lessons learned
 - Unordered lists
 - Github commands (push, pull, clone)
 
-live site: 
+live site: https://jaythestampede.github.io/odin-recipes/
