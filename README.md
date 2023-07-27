@@ -5,5 +5,6 @@ Lessons learned
 - HTML
 - Formatting
 - Unordered lists
+- Github commands (push, pull, clone)
 
 live site: 
